@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevAzureApimanagementApimnamedvalues",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-azure-apimanagement-apimnamedvalues"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-azure-apimanagement-apimnamedvalues?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
